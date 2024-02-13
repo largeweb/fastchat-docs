@@ -66,7 +66,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            FastChat Documentation - 5min ⏱️
+            FastChat Documentation ~3h ⏱️
           </Link>
         </div>
       </div>
